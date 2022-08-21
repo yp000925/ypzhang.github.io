@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Small facts about me"
+title: "Yunping's Page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
