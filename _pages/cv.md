@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electronic and Information Engineering, The University of Electronic Science and Technology of China, 2014-2018
-* M.Sc. in Communication and Signal Processing, Imperial College London, 2018-2019
 * Ph.D in Electrical and Electronic Engineering, The University of Hong Kong, 2020-present
+* M.Sc. in Communication and Signal Processing, Imperial College London, 2018-2019
+* B.S. in Electronic and Information Engineering, The University of Electronic Science and Technology of China, 2014-2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2022: Teaching Assistant 
+    * ELEC 7078 *Advanced Topics in EEE* 
+* Fall 2021: Teaching Assistant 
+    * ELEC 3644 *Advanced Mobile Apps Development*
+* Fall 2020: Teaching Assistant  
+    * ELEC 6080 *Telecommunications Systems and Management*
+* Summer 2020: Algorithm Engineer
+  * *Meituan Company*
+  * Duties included: Develop the route finding algorithms for constructing the integrated map for Meituan.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Guzheng/Zither (A traditional Chineses string instrument)
 
 Publications
 ======
@@ -56,4 +52,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Vice President (Internal), Session 2021-2022, HKU Postgraduate Student Association
+* Council Chairperson, Session 2022-2023, HKU Postgraduate Student Association 
