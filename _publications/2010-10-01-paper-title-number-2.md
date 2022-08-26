@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Recovery of 3D particles distribution from digital hologram using a one-stage detection network"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2021-10-09-3dparticle
+excerpt: '3D micro-particle field reconstruction with high accuracy and low latency is an ambitious and important task within various applications. Without using any focusing optics, the digital holography (DH) is used as a high throughput and compact imaging system to retrieve the particle 3D distribution information from two-dimensional(2D) gray-scale interference pattern. In this work, a one-stage digital in-line holography model is proposed with competitive performance in localisation accuracy and extraction rate with improved processing speed. This model facilitates the analysis of the dynamic displacements and motions for micro particles or cells and could be further extended to various types of computational imaging problems sharing the similar traits.'
+date: 2021-10-09
+venue: 'Holography, Diffractive Optics, and Applications XI'
+paperurl: 'https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11898/118980H/Recovery-of-3D-particles-distribution-from-digital-hologram-using-a/10.1117/12.2601097.short?SSO=1'
+citation: 'Zhang Y, Lam EY. Recovery of 3D particles distribution from digital hologram using a one-stage detection network. InHolography, Diffractive Optics, and Applications XI 2021 Oct 9 (Vol. 11898, pp. 50-58). SPIE.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+3D micro-particle field reconstruction with high accuracy and low latency is an ambitious and important task within various applications. Without using any focusing optics, the digital holography (DH) is used as a high throughput and compact imaging system to retrieve the particle 3D distribution information from two-dimensional(2D) gray-scale interference pattern. In this work, a one-stage digital in-line holography model is proposed with competitive performance in localisation accuracy and extraction rate with improved processing speed. This model facilitates the analysis of the dynamic displacements and motions for micro particles or cells and could be further extended to various types of computational imaging problems sharing the similar traits.
+[Download paper here](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11898/118980H/Recovery-of-3D-particles-distribution-from-digital-hologram-using-a/10.1117/12.2601097.short?SSO=1)
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommand citation: Zhang Y, Lam EY. Recovery of 3D particles distribution from digital hologram using a one-stage detection network. InHolography, Diffractive Optics, and Applications XI 2021 Oct 9 (Vol. 11898, pp. 50-58). SPIE.
