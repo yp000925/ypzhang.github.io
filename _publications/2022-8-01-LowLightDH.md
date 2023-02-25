@@ -2,7 +2,6 @@
 title: "Enabling Low-light Digital Holography with a Quanta Image Sensor"
 collection: publications
 permalink: /publication/2022-8-01-LowLightDH
-excerpt: 'QISDH'
 date: 2022-8-01
 venue: 'Digital Holography and Three-Dimensional Imaging'
 paperurl: 'https://opg.optica.org/abstract.cfm?uri=DH-2022-Th4A.6'
