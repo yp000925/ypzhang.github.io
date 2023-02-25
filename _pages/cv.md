@@ -17,6 +17,8 @@ Education
 
 Work experience
 ======
+* Fall 2022: Teaching Assistant 
+    * ELEC 8503 *Fourier transform and its applications* 
 * Spring 2022: Teaching Assistant 
     * ELEC 7078 *Advanced Topics in EEE* 
 * Fall 2021: Teaching Assistant 
