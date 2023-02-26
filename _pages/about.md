@@ -14,5 +14,5 @@ My research interest includes but not restricted to digital holography, computat
 ## My background and history
 Before coming to Hong Kong, I obtained my B.S. degree in Electronic and Electrical Engineering from [the University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) and M.S. degree with distinction from the [Imperial College London](https://www.imperial.ac.uk/). 
 
-## My personal interest 
+
 
