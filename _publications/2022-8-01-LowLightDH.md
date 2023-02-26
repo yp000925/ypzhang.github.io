@@ -10,7 +10,5 @@ citation: 'Y. Zhang and E. Y. Lam, "Enabling Low-light Digital Holography with a
 We demonstrate a digital holographic imaging system where the hologram is
 captured by a quanta image sensor (QIS), and the object wavefront is then computationally
 retrieved. This scheme enables digital holography at a very low signal level via individual
-photon detection.
-
-[Download paper here](https://opg.optica.org/abstract.cfm?uri=DH-2022-Th4A.6)
+photon detection.[Download paper here](https://opg.optica.org/abstract.cfm?uri=DH-2022-Th4A.6)
 
